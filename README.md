@@ -4,7 +4,9 @@ I am a student researcher based in Singapore with interests in economics, econom
 
 My work focuses on applying statistical and econometric methods to real-world policy questions using R.
 
-## Featured Research
+<br>
+
+### Featured Research
 
 **From Cash to Cashless: Evaluating PayNow and Cash Demand in Singapore**
 
@@ -12,6 +14,8 @@ An econometric research project conducted under the NUS–MOE Humanities and Soc
 
 [Explore my research repository](https://github.com/nevinsey08/H3_HSSR_2026)
 
-## Research Interests
+<br>
+
+### Research Interests
 
 Econometrics · Applied Economics · Public Policy · Data Analytics · R Programming
