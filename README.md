@@ -1,16 +1,17 @@
-## Hi there 👋
+# Nevin Shi En Yu
 
-<!--
-**nevinsey08/nevinsey08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student researcher based in Singapore with interests in economics, econometrics, quantitative research and data analytics.
 
-Here are some ideas to get you started:
+My work focuses on applying statistical and econometric methods to real-world policy questions using R.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Research
+
+**From Cash to Cashless: Evaluating PayNow and Cash Demand in Singapore**
+
+An econometric research project conducted under the NUS–MOE Humanities and Social Sciences Research Programme (Economics), involving SARIMA interrupted time-series modelling, counterfactual analysis and robustness testing.
+
+[Explore my research repository](https://github.com/nevinsey08/H3_HSSR_2026)
+
+## Research Interests
+
+Econometrics · Applied Economics · Public Policy · Data Analytics · R Programming
