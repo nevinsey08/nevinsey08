@@ -6,7 +6,7 @@ My work focuses on applying statistical and econometric methods to real-world po
 
 <br>
 
-### Featured Research
+## Featured Research
 
 **From Cash to Cashless: Evaluating PayNow and Cash Demand in Singapore**
 
@@ -16,6 +16,6 @@ An econometric research project conducted under the NUS–MOE Humanities and Soc
 
 <br>
 
-### Research Interests
+## Research Interests
 
 Econometrics · Applied Economics · Public Policy · Data Analytics · R Programming
